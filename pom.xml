@@ -74,7 +74,7 @@
                     <!-- Change this to YOUR application name! -->
                     <appName>adzumi-blog</appName>
                     <processTypes>
-                        <web>java -jar target/my-app-1.0-jar-with-dependencies.jar</web>
+                        <web>java -jar target/my-blog-1.0-jar-with-dependencies.jar</web>
                     </processTypes>
                 </configuration>
             </plugin>
